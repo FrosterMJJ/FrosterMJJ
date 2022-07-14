@@ -1,4 +1,4 @@
-- Hi, I’m @FrosterMJJ
+Hi, I’m @FrosterMJJ
 - Interested in Chemistry and Computer Science
 - Enjoy of using LaTeX
 
