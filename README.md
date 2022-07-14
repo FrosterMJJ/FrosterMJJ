@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FrosterMJJ
-- 👀 I’m interested in Chemistry and Computer Science
-- 🌱 I’m currently learning Grade 10 (High School)
+- Hi, I’m @FrosterMJJ
+- Interested in Chemistry and Computer Science
+- Enjoy of using LaTeX
 
 <!---
 FrosterMJJ/FrosterMJJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
